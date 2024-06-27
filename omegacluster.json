@@ -1,0 +1,91 @@
+{"WBUI2": {
+"settings":
+{
+"OpenButton": 0,
+"HideIcon": true,
+"HideIconAfter": 120,
+"IconURL": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png",
+"DisableIconText": false,
+"IconPosition": 0,
+"IconTextColor": 5,
+"OpenOnStart": true,
+"OpenOnStartOnlyNewPlayers": true,
+"UpdateInterval": 12
+},
+"tabs": [
+{
+"tab1":
+{
+"layout": 1,
+"buttontext": "Welcome",
+"title1": "Welcome to the Shovl.gg Gaming Community",
+"text1": "Hello and welcome! \r\n\r\nPlease be sure to look over the other tabs at the top of this panel. Especially the one labeled \"Important\", as it pertains to how to find these servers in the event that Nitrado fails. (Which, frankly happens pretty often.)\r\n\r\nBeyond that, we're excited to have you and if you have any questions, don't hesitate to ask. Everyone is pretty friendly around here.\r\n\r\nThanks! \r\n\r\n- Old News\r\n\r\n",
+"imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+}
+},
+{
+"tab2":
+{
+"layout": 1,
+"buttontext": "IMPORTANT!",
+"title1": "We move to private dedicated servers often!",
+"text1": "This means that the servers in this cluster will not be discoverable in the default list view of the server browser.\r\n\r\nYour time is valuable, and we don't want you to ever feel like you've wasted it with us. So it's important that you know how to find these servers when we migrate to our own dedicated machines.\r\n\r\nWhen Nitrado starts acting up, we migrate all of the save data from our servers over to our privately owned, dedicated hosting machines. There's no progression loss, but you do need to make a few minor adjustments to the UI of the server browser in order to find us when that happens.\r\n\r\nIf you ever load Ark up and don't see this cluster available, just check the \"Show Player Servers\" box. Make sure you don't have \"Show password protected servers\" checked. Then search for \"Shovl\" in the upper right. All of our privately hosted servers should show up in the list now.\r\n\r\nThe best way to stay up to date on server access is by joining our Discord. The link is at the bottom of this panel. ",
+"imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+}
+},
+{
+"tab3":
+{
+"layout": 1,
+"buttontext": "Rules",
+"title1": "Shovl Omega PvE Cluster Rules",
+"text1": "The rules can be almost entirely summed up by \"Treat others the way you wish to be treated\". This isn't a PvP server, so there's no need to actively attempt to limit another player's enjoyment or path to progression. \r\n\r\nAside from that, there are just a few things we need to cover, mostly building related.\r\n\r\nNo building in artifact caves. I'm 90% sure it's not even possible, but in case I missed that checkbox while setting up the config, please don't.\r\n\r\nPlease do not block off any progression item with your buildings. This means notes, resource nodes for Fabricator+ recipes, etc.\r\n\r\nThis ties back in to the beginning of this panel, but don't be racist, hateful or extremely sexual with your language.\r\n\r\nFinally - no politics in the chat. We get enough of that outside of Ark.\r\n\r\nOtherwise, have fun! Ask questions. Make suggestions. Enjoy yourself to the best of your ability!",
+"imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+}
+},
+{
+"tab4":
+{
+"layout": 1,
+"buttontext": "Starter Kits",
+"title1": "Starter Tools, Resources and Dinos",
+"text1": "These servers don't have starter kits in the traditional sense. Instead, we've put together a community center where you can purchase early game tools, resources and dinos.\r\n\r\nWe use the Simple Trade mod to accomplish this. For every 15 minutes that you are online, you will earn 10 simple coins. You can use these coins to purchase the starter items.\r\n\r\nIncluded Items for Purchase:\r\nMetal Tools\r\nUnrefined resources - up to Polymer and Electronics Recipes\r\nLvl 112 Pteranadons\r\n\r\nTo fully kit yourself out with metal tools, a Pteranadon and a saddle, it will take roughly 1.5 hours of game time.\r\n\r\nYou can find the Community Center at 79.1, 36.1\r\n\r\nThere are also a number of player ran trade stalls here, where you can purchase other items.",
+"imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+}
+},
+{
+"tab5":
+{
+"layout": 3,
+"buttontext": "Rates/Mods/Community Center",
+"title1": "Mod Encyclopedia",
+"text1": "Open your inventory and click the \"Nucleus\" button at the top center of your UI. From there, you can access the Encyclopedia, which you can use to learn about all the various items included in this server through mods.",
+"imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png",
+"title2": "Rates",
+"text2": "3x weight, 2.5x fortitude\r\n2x XP/ 3xTaming/Harvest\r\n8x Mating/Baby Mature/Imprint Interval\r\n\r\nOtherwise, everything is left at Vanilla 1x",
+"title3": "Community Center",
+"text3": "PUBLIC TELEPORTERS LOCATED AT ALL OBELISKS AND COMMUNITY CENTER\r\n\r\nWe've set up a basic community center with admin ran starter item sales stalls, and a good amount of claimable sales stalls for players to sell their wares on.\r\n\r\nYou can find the Community Center at 79.1, 36.1\r\n\r\nYou'll accumulate simple coins as you play the game, which can be used as currency in the admin stalls. Player ran stalls can use a variety of different resources as currency."
+}
+},
+{
+"tab6":
+{
+"layout": 1,
+"buttontext": "Discord",
+"title1": "Shovl.gg Community Discord",
+"text1": "You can find us at shovl.gg/discord or just click the button at the bottom of this panel.",
+"imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+}
+}
+],
+"links": [
+{
+"link1":
+{
+"text": "Discord",
+"url": "https://discord.com/invite/YY4MW32ehc"
+}
+}
+]
+}
+}

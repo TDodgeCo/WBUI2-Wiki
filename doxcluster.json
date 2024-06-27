@@ -42,8 +42,8 @@
             },
             {
                 "tab4": {
-                    "layout": 3,
-                    "buttontext": "Rates/Mods/Community Center",
+                    "layout": 2,
+                    "buttontext": "Rates & Mods",
                     "title1": "Mod Encyclopedia",
                     "text1": "Open your inventory and click the \"Nucleus\" button at the top center of your UI. From there, you can access the Encyclopedia, which you can use to learn about all the various items included in this server through mods.",
                     "imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png",

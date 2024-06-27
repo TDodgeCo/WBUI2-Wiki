@@ -1,86 +1,86 @@
 {
-   "WBUI2":{
-      "settings":{
-         "OpenButton":0,
-         "HideIcon":true,
-         "HideIconAfter":120,
-         "IconURL":"https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png",
-         "DisableIconText":false,
-         "IconPosition":0,
-         "IconTextColor":5,
-         "OpenOnStart":true,
-         "OpenOnStartOnlyNewPlayers":true,
-         "UpdateInterval":12
-      },
-      "tabs":[
-         {
-            "tab1":{
-               "layout":1,
-               "buttontext":"Welcome",
-               "title1":"Welcome to the Shovl.gg Dino Overhaul X 2 Cluster",
-               "text1":"Hello and welcome! \r\n\r\nPlease be sure to look over the other tabs at the top of this panel. Beyond that, we're excited to have you and if you have any questions, don't hesitate to ask. Everyone is pretty friendly around here.\r\n\r\nThanks! \r\n\r\n- Old News\r\n\r\n",
-               "imageurl":"https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
-            }
-         },
-         {
-            "tab2":{
-               "layout":1,
-               "buttontext":"Rules",
-               "title1":"Shovl DOX PvE Cluster Rules",
-               "text1":"The rules can be almost entirely summed up by \"Treat others the way you wish to be treated\". This isn't a PvP server, so there's no need to actively attempt to limit another player's enjoyment or path to progression. \r\n\r\nAside from that, there are just a few things we need to cover, mostly building related.\r\n\r\nNo building in artifact caves. I'm 90% sure it's not even possible, but in case I missed that checkbox while setting up the config, please don't.\r\n\r\nPlease do not block off any progression item with your buildings. This means notes, resource nodes for Fabricator+ recipes, etc.\r\n\r\nThis ties back in to the beginning of this panel, but don't be racist, hateful or extremely sexual with your language.\r\n\r\nFinally - no politics in the chat. We get enough of that outside of Ark.\r\n\r\nOtherwise, have fun! Ask questions. Make suggestions. Enjoy yourself to the best of your ability!",
-               "imageurl":"https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
-            }
-         },
-         {
-            "tab3":{
-               "layout":1,
-               "buttontext":"Starter Kits",
-               "title1":"Starter Tools",
-               "text1":"You'll receive starter recipes that can be crafted for fiber in your inventory up until level 20. Upon reaching level 25, you'll automatically receive a set of ascendent metal tools. The timing can be a bit wonky with this, so please be patient.",
-               "imageurl":"https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
-            }
-         },
-         {
-            "tab4":{
-               "layout":3,
-               "buttontext":"Rates/Mods/Community Center",
-               "title1":"Mod Encyclopedia",
-               "text1":"Open your inventory and click the \"Nucleus\" button at the top center of your UI. From there, you can access the Encyclopedia, which you can use to learn about all the various items included in this server through mods.",
-               "imageurl":"https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png",
-               "title2":"Rates",
-               "text2":"XP: 3x, Harvest: 3x, Mature speed: 12x, Incubation Speed: 6x, Egg Lay Period: 0.8x, Mating Speed: 5x, Mating Interval: 0.25x, Imprint Period: 0.0625x, Imprint Amount: 12x",
-            }
-         },
-         {
-            "tab5":{
-               "layout":1,
-               "buttontext":"Discord",
-               "title1":"Shovl.gg Community Discord",
-               "text1":"You can find us at shovl.gg/discord or just click the button at the bottom of this panel.",
-               "imageurl":"https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
-            }
-         },
-         {
-            "tab6":{
-               "layout":1,
-               "buttontext":"Supporter Shop",
-               "title1":"Convenience and Cosmetic Items",
-               "text1":"We have an array of items available for purchase with the tokens you earn for being in game. You can also purchase these tokens in bulk if you'd like to speed up the process. Click the Shop button to be taken to the store.",
-               "imageurl":"https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
-            }
-         }
-      ],
-      "links":[
-         {
-            "link1":{
-               "text":"Discord",
-               "url":"https://discord.com/invite/YY4MW32ehc"
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 120,
+            "IconURL": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 5,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to the Shovl.gg Dino Overhaul X 2 Cluster",
+                    "text1": "Hello and welcome! \r\n\r\nPlease be sure to look over the other tabs at the top of this panel. Beyond that, we're excited to have you and if you have any questions, don't hesitate to ask. Everyone is pretty friendly around here.\r\n\r\nThanks! \r\n\r\n- Old News\r\n\r\n",
+                    "imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+                }
             },
-            "link2":{
-               "text":"Shop",
-               "url":"https://shovl.premiumark.net"
+            {
+                "tab2": {
+                    "layout": 1,
+                    "buttontext": "Rules",
+                    "title1": "Shovl DOX PvE Cluster Rules",
+                    "text1": "The rules can be almost entirely summed up by \"Treat others the way you wish to be treated\". This isn't a PvP server, so there's no need to actively attempt to limit another player's enjoyment or path to progression. \r\n\r\nAside from that, there are just a few things we need to cover, mostly building related.\r\n\r\nNo building in artifact caves. I'm 90% sure it's not even possible, but in case I missed that checkbox while setting up the config, please don't.\r\n\r\nPlease do not block off any progression item with your buildings. This means notes, resource nodes for Fabricator+ recipes, etc.\r\n\r\nThis ties back in to the beginning of this panel, but don't be racist, hateful or extremely sexual with your language.\r\n\r\nFinally - no politics in the chat. We get enough of that outside of Ark.\r\n\r\nOtherwise, have fun! Ask questions. Make suggestions. Enjoy yourself to the best of your ability!",
+                    "imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+                }
+            },
+            {
+                "tab3": {
+                    "layout": 1,
+                    "buttontext": "Starter Kits",
+                    "title1": "Starter Tools",
+                    "text1": "You'll receive starter recipes that can be crafted for fiber in your inventory up until level 20. Upon reaching level 25, you'll automatically receive a set of ascendent metal tools. The timing can be a bit wonky with this, so please be patient.",
+                    "imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+                }
+            },
+            {
+                "tab4": {
+                    "layout": 3,
+                    "buttontext": "Rates/Mods/Community Center",
+                    "title1": "Mod Encyclopedia",
+                    "text1": "Open your inventory and click the \"Nucleus\" button at the top center of your UI. From there, you can access the Encyclopedia, which you can use to learn about all the various items included in this server through mods.",
+                    "imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png",
+                    "title2": "Rates",
+                    "text2": "XP: 3x, Harvest: 3x, Mature speed: 12x, Incubation Speed: 6x, Egg Lay Period: 0.8x, Mating Speed: 5x, Mating Interval: 0.25x, Imprint Period: 0.0625x, Imprint Amount: 12x"
+                }
+            },
+            {
+                "tab5": {
+                    "layout": 1,
+                    "buttontext": "Discord",
+                    "title1": "Shovl.gg Community Discord",
+                    "text1": "You can find us at shovl.gg/discord or just click the button at the bottom of this panel.",
+                    "imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+                }
+            },
+            {
+                "tab6": {
+                    "layout": 1,
+                    "buttontext": "Supporter Shop",
+                    "title1": "Convenience and Cosmetic Items",
+                    "text1": "We have an array of items available for purchase with the tokens you earn for being in game. You can also purchase these tokens in bulk if you'd like to speed up the process. Click the Shop button to be taken to the store.",
+                    "imageurl": "https://shovl.gg/assets/images/shovl_logo_transparent_grayscale.7fab4777.png"
+                }
             }
-         }
-      ]
-   }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.com/invite/YY4MW32ehc"
+                },
+                "link2": {
+                    "text": "Shop",
+                    "url": "https://shovl.premiumark.net"
+                }
+            }
+        ]
+    }
 }
